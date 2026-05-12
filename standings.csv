@@ -1,11 +1,14 @@
-﻿Rank,Full Name with COSSY ID,Short Name with COSSY ID,Full Name,Short Name,COSSY ID,Points,Tiebreaker
-1,"., Dietrichsan (9999000007)",".., Dietrichsan (9999000007)","., Dietrichsan",".., Dietrichsan","9999000007",0,0
-1,"., Le0 (9999000006)",".., Le0 (9999000006)","., Le0",".., Le0","9999000006",0,0
-1,"., solus (9999000008)",".., solus (9999000008)","., solus",".., solus","9999000008",0,0
-1,"., jonah (9999000010)",".., jonah (9999000010)","., jonah",".., jonah","9999000010",0,0
-1,"., NakNak (9999000009)",".., NakNak (9999000009)","., NakNak",".., NakNak","9999000009",0,0
-1,"., Homecomin / Leon (9999000002)",".., Homecomin / Leon (9999000002)","., Homecomin / Leon",".., Homecomin / Leon","9999000002",0,0
-1,"., Artemis (9999000001)",".., Artemis (9999000001)","., Artemis",".., Artemis","9999000001",0,0
-1,"., Aelirenn (9999000003)",".., Aelirenn (9999000003)","., Aelirenn",".., Aelirenn","9999000003",0,0
-1,"., BenjaminBesser (9999000005)",".., BenjaminBesser (9999000005)","., BenjaminBesser",".., BenjaminBesser","9999000005",0,0
-1,"., Evilnaga (9999000004)",".., Evilnaga (9999000004)","., Evilnaga",".., Evilnaga","9999000004",0,0
+Rank,Full Name with COSSY ID,Short Name with COSSY ID,Full Name,Short Name,COSSY ID,Points,Tiebreaker
+1,"., NakNak (9999000009)",".., NakNak (9999000009)","., NakNak",".., NakNak","9999000009",3,3000999
+1,"., jonah (9999000010)",".., jonah (9999000010)","., jonah",".., jonah","9999000010",3,3000999
+1,"., Aelirenn (9999000003)",".., Aelirenn (9999000003)","., Aelirenn",".., Aelirenn","9999000003",3,3000999
+1,"., Dietrichsan (9999000007)",".., Dietrichsan (9999000007)","., Dietrichsan",".., Dietrichsan","9999000007",3,3000999
+1,"., Homecomin / Leon (9999000002)",".., Homecomin / Leon (9999000002)","., Homecomin / Leon",".., Homecomin / Leon","9999000002",3,3000999
+6,"., Evilnaga (9999000004)",".., Evilnaga (9999000004)","., Evilnaga",".., Evilnaga","9999000004",3,3000000
+7,"., Möwe / Vincent (9999000011)",".., Möwe / Vincent (9999000011)","., Möwe / Vincent",".., Möwe / Vincent","9999000011",0,999000
+7,"., solus (9999000008)",".., solus (9999000008)","., solus",".., solus","9999000008",0,999000
+7,"., BenjaminBesser (9999000005)",".., BenjaminBesser (9999000005)","., BenjaminBesser",".., BenjaminBesser","9999000005",0,999000
+7,"., Le0 (9999000006)",".., Le0 (9999000006)","., Le0",".., Le0","9999000006",0,999000
+7,"., Artemis (9999000001)",".., Artemis (9999000001)","., Artemis",".., Artemis","9999000001",0,999000
+12,"., Santi (9999000013)",".., Santi (9999000013)","., Santi",".., Santi","9999000013",0,0
+12,"., Hanno (9999000012)",".., Hanno (9999000012)","., Hanno",".., Hanno","9999000012",0,0
